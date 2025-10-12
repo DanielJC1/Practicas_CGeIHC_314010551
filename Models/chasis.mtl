@@ -1,0 +1,62 @@
+# Blender 4.5.3 LTS MTL File: 'carro2.blend'
+# www.blender.org
+
+newmtl chasis
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/orlan/Desktop/Semestre 2026-1/CGeIHC/Laboratorio/Prácticas/Práctica 6/P06-314010551/Textures/chasis.png
+
+newmtl laterales
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/orlan/Desktop/Semestre 2026-1/CGeIHC/Laboratorio/Prácticas/Práctica 6/P06-314010551/Textures/laterales.png
+
+newmtl ojos
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/orlan/Desktop/Semestre 2026-1/CGeIHC/Laboratorio/Prácticas/Práctica 6/P06-314010551/Textures/ojos.png
+
+newmtl puertas
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/orlan/Desktop/Semestre 2026-1/CGeIHC/Laboratorio/Prácticas/Práctica 6/P06-314010551/Textures/puertas.png
+
+newmtl retrovisores
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/orlan/Desktop/Semestre 2026-1/CGeIHC/Laboratorio/Prácticas/Práctica 6/P06-314010551/Textures/retrovisores.png
+
+newmtl suspension
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/orlan/Desktop/Semestre 2026-1/CGeIHC/Laboratorio/Prácticas/Práctica 6/P06-314010551/Textures/suspension.png
