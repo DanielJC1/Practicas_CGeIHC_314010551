@@ -23,3 +23,4 @@ GRUPO DE LABORATORIO: 02
 GRUPO DE TEORÍA: 05
 
 SEMESTRE 2026-1
+<img width="1100" height="1100" alt="frijolito" src="https://github.com/user-attachments/assets/dea0511d-9aa8-4e13-b899-dc1bdd19e883" />
