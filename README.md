@@ -1,4 +1,6 @@
 # Practicas_CGeIHC_314010551
+MODELOS Y TEXTURAS PRÁCTICA 10
+https://drive.google.com/drive/u/2/folders/1m3OIsvVJA8toYz3dNCWa522eREv7vmBF
 
 UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO 
 
